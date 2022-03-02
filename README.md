@@ -50,6 +50,8 @@ Up to now, there are no issues with it.
 
 Here is the link to the Issues tab:
 
+https://github.com/zairdon20/Bookstore/pull/1
+
 ## Author
 
 👤 **Josphat Nkonde**
