@@ -39,9 +39,7 @@ This project is in progress.
 
 ## Screenshoots
 ![screenshot](./public/Screenshot-Bookstore4.png)
-## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
 ## Authors
 
 ## Issues
@@ -50,7 +48,7 @@ Up to now, there are no issues with it.
 
 Here is the link to the Issues tab:
 
-https://github.com/zairdon20/Bookstore/pull/1
+https://github.com/zairdon20/Bookstore/issues
 
 ## Author
 
