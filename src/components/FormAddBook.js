@@ -36,6 +36,15 @@ function FormAddBook() {
         />
         <input
           type="text"
+          name="name"
+          placeholder="Book Author"
+          id="title"
+          ref={titleInputRef}
+          required
+          className="input-Author"
+        />
+        <input
+          type="text"
           name="category"
           placeholder="Category"
           id="category"
