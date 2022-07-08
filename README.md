@@ -60,7 +60,7 @@ https://github.com/zairdon20/Bookstore/issues
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give a ⭐️ or buy me a coffee if you like this project! 
 
 ## Acknowledgments
 
